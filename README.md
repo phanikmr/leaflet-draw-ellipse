@@ -11,6 +11,15 @@ Leaflet.draw-ellipse 0.1.0+ requires
 
 ## Usage
 
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+    <link rel="stylesheet" href="leaflet.draw.css" />
+    <link rel="stylesheet" href="leaflet.draw-ellipse.css" />
+
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
+    <script src="leaflet.draw.js"></script>
+    <script src="leaflet.ellipse.js"></script>
+    <script src="leaflet.ellipse-draw.js"></script>
+
 See [Leaflet.draw](https://github.com/Leaflet/Leaflet.draw#using) and [Leaflet.ellipse](https://github.com/jdfergason/Leaflet.Ellipse#usage).
 
 ## Options
