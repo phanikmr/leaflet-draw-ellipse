@@ -2,7 +2,9 @@
 
 Adds support for drawing and editing ellipses in the Leaflet.draw plugin. 
 
-![Alt text](https://static.wixstatic.com/media/0efaf2_94a76b718ee24ca38b1fbf452b5427e9.png/v1/fill/w_243,h_67,al_c,usm_0.66_1.00_0.01/0efaf2_94a76b718ee24ca38b1fbf452b5427e9.png "Optional Title")
+From 
+![Alt text](https://static.wixstatic.com/media/0efaf2_94a76b718ee24ca38b1fbf452b5427e9.png/v1/fill/w_243,h_67,al_c,usm_0.66_1.00_0.01/0efaf2_94a76b718ee24ca38b1fbf452b5427e9.png "BitsBlender") in association with 
+![Alt text](http://employgoal-email3.com/js/company_logos/12/4d/28/124d289a739ba07ff2598f5b0137399c/wwwearccom.png "ARC Doc. Sol.") 
 
 # Important
 Leaflet.draw-ellipse 0.1.0+ requires 
