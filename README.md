@@ -26,6 +26,11 @@ Leaflet.draw-ellipse 0.1.0+ requires
 
 See [Leaflet.draw](https://github.com/Leaflet/Leaflet.draw#using) and [Leaflet.ellipse](https://github.com/jdfergason/Leaflet.Ellipse#usage).
 
+![Alt text](screenshot-1.png "Drawing Ellipse")
+
+![Alt text](screenshot-2.png "Editing Ellipse")
+
+
 ## Options
 
 You can configure the Leaflet.draw control by using the following options. They are the same as [CircleOptions](https://github.com/Leaflet/Leaflet.draw#circleoptions).
