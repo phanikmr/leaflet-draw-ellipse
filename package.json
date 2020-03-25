@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YonatanHanan/leaflet-draw-ellipse.git"
+    "url": "git+https://github.com/phanikmr/leaflet-draw-ellipse.git"
   },
-  "author": "",
+  "author": "phanikmr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YonatanHanan/leaflet-draw-ellipse/issues"
+    "url": "https://github.com/phanikmr/leaflet-draw-ellipse/issues"
   },
-  "homepage": "https://github.com/YonatanHanan/leaflet-draw-ellipse#readme"
+  "homepage": "https://github.com/phanikmr/leaflet-draw-ellipse#readme"
 }
