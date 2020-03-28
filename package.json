@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-draw-ellipse",
+  "version": "1.0.0",
+  "description": "Adds support for drawing and editing ellipses in the Leaflet.draw plugin.",
+  "main": "leaflet.ellipse-draw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phanikmr/leaflet-draw-ellipse.git"
+  },
+  "author": "phanikmr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phanikmr/leaflet-draw-ellipse/issues"
+  },
+  "homepage": "https://github.com/phanikmr/leaflet-draw-ellipse#readme"
+}
